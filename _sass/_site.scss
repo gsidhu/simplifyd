@@ -75,7 +75,7 @@
 
         p.description{            
             font-size: 2rem;
-            text-align: left;
+            text-align: center;
         }
     }
     
@@ -138,6 +138,7 @@
 }
 .post-title{
 	margin-bottom: 0;
+	padding-bottom: 10px;
 }
 .post-meta{
 	margin: 1rem;
@@ -164,25 +165,31 @@
 }
 
 @media (max-width: 1050px) {
-    .page-content .footer-heading{  
+    .page-content {  
         margin: $spacing-unit 2%;
         width: 96%;
     }
+	.footer-heading {  
+        margin: $spacing-unit 2%;
+        width: 96%;
+	}
 }
 
-
-/*@media (max-width: 600px) {
+@media (max-width: 768px) {
     .footer-heading{  
 		text-align: center;
     }
 	.social img {
 		height: 18px;
 	}
-	.copyright .social {
+	.copyright {
+		float: none;
+	}
+	.social {
 		float: none;
 	}
 }
-*/
+
 
 .share-page {
 	text-align: center;
