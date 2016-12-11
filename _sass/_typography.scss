@@ -10,7 +10,7 @@ h5,
 h6 {
   margin-bottom: 2rem;
   font-weight: 300;
-  font-family: "american_typewriter_medium_bt";
+  font-family: "PT Serif", Georgia, "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 h1 {
@@ -50,7 +50,7 @@ h6 {
 }
 
 
-/* Larger than phablet */
+/* Larger than phablet 
 
 @media (min-width: 550px) {
   h1 {
@@ -71,4 +71,4 @@ h6 {
   h6 {
     font-size: 1.5rem;
   }
-}
+} */

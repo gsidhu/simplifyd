@@ -11,14 +11,17 @@ a:hover:before {
 	transform: scaleX(1);
 }
 
-a:hover {
+a:hover:not(.btn .pager) {
 	border-bottom: 0.6px solid #000000;
 	color: #FF944D;
 	cursor:pointer;
 }
 
-.pager .share-page a:hover {
+.pager .share-page .btn a:hover {
 	color: inherit;
+}
+.pager a {
+	text-decoration: none;
 }
 
 a {
@@ -26,7 +29,7 @@ a {
 	color: inherit;
 }
 
-a:before:not(.pager .share-page) {
+a:before:not(.pager .share-page .btn) {
   content: "";
   position: absolute;
   width: 100%;

@@ -68,10 +68,10 @@ Keep it simple!
 
 * * *
 
-Further reading: 
+Further reading:  
 1.  [Weather Risk Management for Agriculture and Agri-Business in Developing Countries](https://agriskmanagementforum.org/sites/agriskmanagementforum.org/files/Documents/Weather_Risk_Management.pdf): This book chapter is a good introduction to WRM as it argues the need for it; compares traditional and upcoming practices; and provides acase-study. From the book:  
 _"The first part argues that weather risk causes substantial inefficiencies in developing countries; agri-businesses, faced with underdeveloped formal financial markets, have to rely on traditional WRM that is associated with underinvestment and overdiversification. We discuss how new WRM can overcome the pitfalls of traditional WRM and have a large development impact. In the second section, we discuss the range of potential uses of new WRM. The final part turns to the operational aspects of a new WRM, studying in detail the case of WRM for cereals in Morocco."_  
 2.  [Weather Risk Management Association](http://wrma.org/what-is-weather-risk-management/): An obvious choice of source.  
 3.  [Climate Change Uncertainty and Risk: From Probabilistic Forecasts to Economics of Climate Adaptation](Climate%20Change%20Uncertainty%20and%20Risk:%20From%20Probabilistic%20Forecasts%20to%20Economics%20of%20Climate%20Adaptation): A course on topic provided by Prof. Bresch himself. You can find the previous year’s slides on the link. Or if you are at ETH you can take the course itself in FS17!  
-4.  [Why Marathwada is the most drought affected region.](http://www.skymetweather.com/content/weather-news-and-analysis/why-marathwada-is-the-most-drought-affected-region/)  
-5.  [The real reasons behind Maharashtra's man-made drought](https://yourstory.com/2016/04/maharashtra-drought-feature/)  
+4.  <span id="four">[Why Marathwada is the most drought affected region.](http://www.skymetweather.com/content/weather-news-and-analysis/why-marathwada-is-the-most-drought-affected-region/)</span>  
+5.  <span id="five">[The real reasons behind Maharashtra's man-made drought](https://yourstory.com/2016/04/maharashtra-drought-feature/)</span>  
