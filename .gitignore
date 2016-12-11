@@ -1,0 +1,16 @@
+/_site
+/.git
+/.sass-cache
+/server
+/Gemfile~
+/*.html~
+/_posts/*.md~
+/_layouts/*.html~
+/.gitignore~
+/public/css/*.css~
+/_config.yml~
+/_includes/head.html~
+/todo.txt
+/todo.txt~
+/*~
+/*/*~
