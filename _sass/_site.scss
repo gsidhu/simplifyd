@@ -17,10 +17,25 @@
             color: $text-color-gray;
             font-size: $big-font-size;
 			letter-spacing: 0.01em;
+			padding: 15px;
         }
     }
     
-    
+    .menu {
+		width: 40%;
+		margin: -5em auto 30px;
+	}
+
+	.nav-menu {
+		line-height: 2.5em;
+		letter-spacing: 0.2em;
+		font-family: "american_typewriter_medium_bt";
+		font-size: 20px;
+	}
+
+	#menu-item {
+		padding: 10px;	
+	}
     .header-badge{
         border-radius: 50%;
         border: 12px #363636 solid;
@@ -49,7 +64,7 @@
     .header-badge:hover{        
         transition: $anim-speed;   
         @extend .z-depth-5;
-        
+
         img{         
             opacity: 1;
             transition: $anim-speed;  
@@ -173,6 +188,10 @@
         margin: $spacing-unit 2%;
         width: 96%;
 	}
+	.site-header .menu {  
+        margin: -5em 2% $spacing-unit;
+        width: 96%;
+	}
 }
 
 @media (max-width: 768px) {
@@ -188,9 +207,15 @@
 	.social {
 		float: none;
 	}
+	.site-header .nav-menu {
+		letter-spacing: 0;
+	}
 }
-
-
+@media (max-width:360px) {
+	.site-header .nav-menu {
+		font-size: 16px;
+	}
+}
 .share-page {
 	text-align: center;
 	padding: 8px 15px;
@@ -199,4 +224,14 @@
 
 .share-page img {
 	height: 20px;
+}
+
+.subscribe img {
+	height: 60px;
+	margin: 15px;
+	padding: 5px;
+}
+
+.subscribe p {
+	text-align: center;
 }
