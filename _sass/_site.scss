@@ -22,7 +22,7 @@
     }
     
     .menu {
-		width: 40%;
+		width: 50%;
 		margin: -5em auto 30px;
 	}
 
@@ -75,7 +75,7 @@
 
 .page-content{ 
     margin: $spacing-unit auto;   
-    width: 980px;    
+    width: 750px;    
     
     .top{
         
@@ -148,8 +148,12 @@
             padding: 80px 20px;
     }
 }
+
 .post-header{
 	text-align: center;
+	.post-meta{
+		margin: 0 10px 0 0;
+	}
 }
 .post-title{
 	margin-bottom: 0;
@@ -161,7 +165,7 @@
 .footer-heading{
 	margin: $spacing-unit auto;
 	margin-top: -20px;
-	width: 980px;
+	width: 750px;
     display:block;
     text-align: float;
     color: #363636;
@@ -232,6 +236,6 @@
 	padding: 5px;
 }
 
-.subscribe p {
+.subscribe #links {
 	text-align: center;
 }
