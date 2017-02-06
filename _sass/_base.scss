@@ -38,7 +38,7 @@ body {
   margin: 0;
     
   line-height: 1.6;
-  font-size: 1.5em;
+  font-size: 1.5em*$font-size-multiplier;
   font-weight: 400;
   font-family: "PT Serif", Georgia, "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }

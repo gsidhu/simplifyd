@@ -13,6 +13,8 @@ $small-font-size:  $base-font-size * 0.875;
 $big-font-size:    $base-font-size * 3;
 $base-line-height: 1.5;
 
+$font-size-multiplier: 1;
+
 $spacing-unit:     30px;
 
 $text-color:       #111;
@@ -66,7 +68,9 @@ $anim-speed: 0.3s;
   box-shadow: 0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.3);
 }
 
-
+@media (min-width: 1367px) {
+	$font-size-multiplier: 3;
+}
 
 // Use media queries like this:
 // @include media-query($on-palm) {
