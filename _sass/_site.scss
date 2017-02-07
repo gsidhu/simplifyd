@@ -239,12 +239,21 @@
 	height: 1.25em*$font-size-multiplier;
 }
 
-.subscribe img {
+#links img {
 	height: 3.75em*$font-size-multiplier;
 	margin: 15px;
 	padding: 5px;
 }
 
-.subscribe #links {
+#links {
 	text-align: center;
 }
+
+#media-wrapper {
+	width:100%;
+}
+#soundcloud-embed, #youtube-embed {
+	width: 80%;
+	margin:0 auto;
+}
+
