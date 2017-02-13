@@ -7,7 +7,7 @@ permalink: /upcoming/
 ##### Upcoming Episodes
 Can't wait for more? There's a new episode each week! Here's what's coming up next -
 
-* Episode 2: Dr. Michael Dittmar (ETH Zürich, CERN)  
+* Episode 2: Dr. Michael Dittmar (ETH Zürich, CERN) - Part 2  
 * Episode 3: Prof. Colin Ewald, (ETH Zürich)  
 * Episode 4: Prof. Karin Würtz, (ETH Zürich)  
 
@@ -16,5 +16,6 @@ This is a list of interviews we have scheduled. For each interviewee we've provi
 
 _Note - If you have general remarks or questions directed at us and not the interviewee, please send us an email or contact us via Facebook or Twitter._
 
+* [Prof. Manu Kapur (ETH Zurich)](/upcoming/manu-kapur) - Learning sciences, education and pedagogy  
 * [Prof. Naor Ben-Yehoyada (Columbia University)](/upcoming/naor-ben-yehoyada) - Anthropology, criminal justice, unauthorized migration  
 * [Prof. Johannes Quack (University of Zürich)](/upcoming/johannes-quack) - Social anthropology, post-secularity and non-religion, medicine, knowledge  
