@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Ep. 2 - Dr. Michael Dittmar talks energy crisis, Big Oil and "nonsense data" - Part 1
-date:   2017-02-13 11:00:00 +0100
+title:  Ep. 2 - Dr. Michael Dittmar talks nuclear fusion and sustainable living - Part 2
+date:   2017-02-16 11:00:00 +0100
 categories: episode
 comments: true
 ---
-*Note: This is Part 1 of this episode. Part 2 comes out this Thursday.*
+*Note: This is Part 2 of this episode. [Part 1 here.](http://simplifyd.xyz/blog/ep-2-michael-dittmar-part-1)*
 
 In episode two we meet Dr. Michael Dittmar who talks to us about things varying from the oil crisis to nuclear fusion and data analysis to sustainable living.
 
@@ -18,8 +18,8 @@ We publish a new episode every week. Check out our [Upcoming page](/upcoming) to
 And now... let's begin.
 
 <div id="media-wrapper">
-<div id="soundcloud-embed"><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307474290&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></div>
-<div id="youtube-embed">{% include youtube_embed.html id="mCFhgjVwx_A" %}</div> 
+<div id="soundcloud-embed"><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/308016564&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></div>
+<div id="youtube-embed">{% include youtube_embed.html id="xSpB11xu02Q" %}</div> 
 </div>
 
 
