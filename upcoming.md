@@ -7,7 +7,6 @@ permalink: /upcoming/
 ##### Upcoming Episodes
 Can't wait for more? There's a new episode each week! Here's what's coming up next -
 
-* Episode 3: Prof. Colin Ewald, (ETH Zürich)  - Part 2  
 * Episode 4: Prof. Karin Würtz, (ETH Zürich)  
 * Episode 5: Prof. David Bresch, (ETH Zürich, SwissRE)  
 
