@@ -7,10 +7,10 @@ comments: true
 ---
 *Note: This is Part 1 of this episode. Part 2 comes out this Thursday.*
 
-Episode 3 brings us Prof. Colin Ewald who is trying to make us all live healthier and longer. He tells us everything about aging research - the history, current research focus, future goals, and even economic and social concerns. Side note: turns out the self-help books were right all along!
+Episode 3 brings us Prof. Collin Ewald who is trying to make us all live healthier and longer. He tells us everything about aging research - the history, current research focus, future goals, and even economic and social concerns. Side note: turns out the self-help books were right all along!
 
 
-Colin Ewald is an assistant professor in the department of health sciences and technology at ETH Zurich. You can find out more information about his research group and available positions on [his group webpage](http://ewaldlab.strikingly.com/).
+Collin Ewald is an assistant professor in the department of health sciences and technology at ETH Zurich. You can find out more information about his research group and available positions on [his group webpage](http://ewaldlab.strikingly.com/).
 
 If you like our podcast, we would love it if you shared it with your friends and colleagues, and gave us feedback in the comments section below. 
 

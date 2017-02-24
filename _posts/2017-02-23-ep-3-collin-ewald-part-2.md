@@ -7,9 +7,9 @@ comments: true
 ---
 *Note: This is Part 2 of this episode. You can [find Part 1 here.](http://simplifyd.xyz/blog/ep-3-colin-ewald-part-1)*
 
-Prof. Colin Ewald delves into the cost of Alzheimer's disease and tells us about yet unknown "mega cancers" that may come into existence if we live longer.
+Prof. Collin Ewald delves into the cost of Alzheimer's disease and tells us about yet unknown "mega cancers" that may come into existence if we live longer.
 
-Colin Ewald is an assistant professor in the department of health sciences and technology at ETH Zurich. You can find out more information about his research group and available positions on [his group webpage](http://ewaldlab.strikingly.com/).
+Collin Ewald is an assistant professor in the department of health sciences and technology at ETH Zurich. You can find out more information about his research group and available positions on [his group webpage](http://ewaldlab.strikingly.com/).
 
 If you like our podcast, we would love it if you shared it with your friends and colleagues, and gave us feedback in the comments section below. 
 
