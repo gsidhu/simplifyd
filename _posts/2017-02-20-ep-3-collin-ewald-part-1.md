@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Ep. 3 - Prof. Colin Ewald talks getting old and feeling young - Part 1
+title:  Ep. 3 - Prof. Collin Ewald talks getting old and feeling young - Part 1
 date:   2017-02-20 11:00:00 +0100
 categories: episode
 comments: true

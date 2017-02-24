@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Ep. 3 - Prof. Colin Ewald talks the cost of Alzheimer's and "mega cancer" - Part 2
+title:  Ep. 3 - Prof. Collin Ewald talks the cost of Alzheimer's and "mega cancer" - Part 2
 date:   2017-02-23 11:00:00 +0100
 categories: episode
 comments: true
 ---
-*Note: This is Part 2 of this episode. You can [find Part 1 here.](http://simplifyd.xyz/blog/ep-3-colin-ewald-part-1)*
+*Note: This is Part 2 of this episode. You can [find Part 1 here.](http://simplifyd.xyz/blog/ep-3-collin-ewald-part-1)*
 
 Prof. Collin Ewald delves into the cost of Alzheimer's disease and tells us about yet unknown "mega cancers" that may come into existence if we live longer.
 
