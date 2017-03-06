@@ -7,7 +7,6 @@ permalink: /upcoming/
 ##### Upcoming Episodes
 Can't wait for more? There's a new episode each week! Here's what's coming up next -
 
-* Episode 5: Prof. David Bresch, (ETH Zürich, SwissRE)  
 * Cool Stuff - Episode 1: Audrey Cheng (Moringa School, Forbes 30 under 30)  
 
 ##### Upcoming Interviews
