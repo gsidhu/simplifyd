@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Ep. 5 - Prof. David Bresch tells the government how to deal with climate change
+title:  Ep. 5 - Prof. David Bresch speaks about weather risk management
 date:   2017-03-06 11:00:00 +0100
 categories: episode
 comments: true
