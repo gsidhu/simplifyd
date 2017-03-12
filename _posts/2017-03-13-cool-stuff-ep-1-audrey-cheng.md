@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cool Stuff Ep. 1 - Audrey Cheng (Founder, Moringa School)
+title:  Cool Stuff Ep. 1 - How Audrey Cheng moved to Kenya and founded a coding school
 date:   2017-03-13 11:00:00 +0100
 categories: episode
 comments: true
