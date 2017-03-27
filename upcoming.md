@@ -7,7 +7,6 @@ permalink: /upcoming/
 ##### Upcoming Episodes
 Can't wait for more? There's a new episode each week! Here's what's coming up next -
 
-* Cool Stuff - Episode 2 - Heejae Lim (Talking Points, Forbes 30 under 30)  
 * Episode 7 - Prof. Naor Ben-Yehoyada (Columbia University)  
 * Episode 8 - Prof. Jing Wang (ETH Zurich)
 
