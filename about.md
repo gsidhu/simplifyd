@@ -10,7 +10,7 @@ Hello and welcome to Simplifyd.
 We started this podcast with the aim of making academic research more accessible. Our USP is that we focus on keeping our conversations simple and easy to understand so that anyone regardless of their background can comprehend and feel involved. Thus all our questions come from a näive, outsider's perspective. 
 
 ##### We like to talk.
-A couple of interviews in we begun to realize that there was a lot to learn outside the university as well, and that we just really liked to talk. So we decided to widen our range and set up a sub-series called *Cool Stuff* where we talk to anyone who makes us go - *"Wow that's so cool".* Enterpreneurs, creators, artists... if someone's got something really cool to show us or tell us, we try our best to talk to them and learn about it.
+A couple of interviews in we begun to realize that there was a lot to learn outside the university as well; and that we just really liked to talk. So we decided to set up a sub-series called *Cool Stuff* where we talk to anyone who makes us go - *"Wow that's so cool".* Enterpreneurs, creators, artists... if someone's got something really cool to show us or tell us, we try our best to talk to them and learn about it.
 
 ##### We are curious.
 We do not wish to be constrained by the subject specified on our diploma certificate and rather aspire to learn about everything that catches our fancy *because everything is so interesting!* Each interview we do makes us realize that there are so many things we did not know existed. We hope that each conversation we have on our podcast widens the listener's horizons and perhaps provides them with the motivation to get their hands dirty in academic research or start their own ventures, or just satisfies their curiousity.
@@ -35,6 +35,6 @@ You can have a look at our list of [upcoming interviews](/upcoming) and send us 
 
 #### Who are we?
 
-**Gurjot Sidhu** is a masters student in physics with research interests in computational social science and data-driven modeling. He does stand-up comedy and theater, and spends most weekends cheering for Liverpool FC. He has quit the social media nonsense and now exists solely [on his website](https://gsidhu.github.io) as a sentient cyberbeing.
+**Gurjot Sidhu** is a masters student in physics with research interests in computational social science and data-driven modeling. He does [stand-up comedy](http://comedynights.ch/) and [theater](https://blueprintmasquerades.com/), and spends most weekends cheering for Liverpool FC. He has quit the social media nonsense and now exists solely [on his website](https://gsidhu.github.io) as a sentient cyberbeing.
 
-**Michael Yared** is mysterious. That's all you need to know about him.
+**Michael Yared** is a mysterious Space Photon. That's all you need to know about him.
