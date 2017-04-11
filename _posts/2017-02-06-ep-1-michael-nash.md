@@ -5,7 +5,7 @@ date:   2017-02-06 11:00:00 +0100
 categories: episode
 comments: true
 ---
-*Note: Simplifyd is [available on iTunes](https://itunes.apple.com/ch/podcast/simplifyd/id1202579757?l=en) and presumably any podcast application of your choice.*
+*Note: Simplifyd is [available on iTunes](https://itunes.apple.com/ch/podcast/simplifyd/id1202579757?l=en) and presumably [any podcast application of your choice](http://subscribeonandroid.com/feeds.soundcloud.com/users/soundcloud:users:272955989/sounds.rss).*
 
 In Episode One we speak to Prof. Michael Nash and learn about a lot of bio- things. Bio-fuels, bio-glue, bio-police, bio-molecules... some of these names may not be as scientific as the others but they are every bit as fascinating.
 

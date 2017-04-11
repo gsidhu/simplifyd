@@ -10,7 +10,7 @@ layout: default
 		<p class="description"> News: Episode 8 out now! </p>
 		<p id="links">
 		<a href="https://itunes.apple.com/ch/podcast/simplifyd/id1202579757?l=en" title="Subscribe on iTunes"><img src="/assets/icons/appleinc.svg"></a>
-		<!--<a href="#" title="Subscribe on Google Play Music"><img src="/assets/icons/headphones.svg"></a>-->
+		<a href="http://subscribeonandroid.com/feeds.soundcloud.com/users/soundcloud:users:272955989/sounds.rss" title="Subscribe on Android"><img src="/assets/icons/android.svg"></a>
 		<a href="https://www.soundcloud.com/simplifyd" title="Download on Soundcloud"><img src="/assets/icons/soundcloud.svg"></a>
 		<a href="https://www.youtube.com/channel/UCV6jDa8PwSAt_NNqIxnAhJA" title="Watch on YouTube"><img src="/assets/icons/youtube2.svg"></a>
 		<a href="https://www.facebook.com/simplifydpodcast" title="Follow us on Facebook"><img src="/assets/icons/facebook.svg"></a>
@@ -21,13 +21,14 @@ layout: default
       <span class="card-title">Posts</span>
 
       <ul class="post-list">
-        {% for post in site.posts %}
+        {% for post in site.posts limit: 5%}
           <li id="homelist">
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>            
           </li>
         {% endfor %}
       </ul>
+		  <a href="/archive"> Archive </a>
       </div>
    </div>
 </div>
