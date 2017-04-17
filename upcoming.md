@@ -7,7 +7,6 @@ permalink: /upcoming/
 ##### Upcoming Episodes
 Can't wait for more? There's a new episode each week! Here's what's coming up next -
 
-* Cool Stuff Episode 3 - Philipp Man
 * Episode 9 - Prof. Mathieu Luisier (ETH Zurich)
 * Episode 10 - Prof. Sebastiano Cantalupo (ETH Zurich)
 

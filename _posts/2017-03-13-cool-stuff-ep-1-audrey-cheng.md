@@ -8,6 +8,8 @@ comments: true
 
 We start our new sub-series by talking to Audrey Cheng who left everything in the US and flew over 8000 miles to Kenya to set up a coding school. Her inspirational journey and courageous efforts got her featured on the Forbes 30 under 30 list and she tells us all about it.
 
+Find out about Audrey's work at **[Moringa School here](https://www.moringaschool.com).**
+
 If you like our podcast, we would love it if you shared it with your friends and colleagues, and gave us feedback in the comments section below.
 
 We publish a new episode every week. Check out our [Upcoming](/upcoming) page to see what’s coming next.

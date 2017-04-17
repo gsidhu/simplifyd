@@ -9,7 +9,7 @@ comments: true
 
 Prof. Collin Ewald delves into the cost of Alzheimer's disease and tells us about yet unknown "mega cancers" that may come into existence if we live longer.
 
-Collin Ewald is an assistant professor in the department of health sciences and technology at ETH Zurich. You can find out more information about his research group and available positions on [his group webpage](http://ewaldlab.strikingly.com/).
+Collin Ewald is an assistant professor in the department of health sciences and technology at ETH Zurich. You can find out more information about his research group and available positions on **[his group webpage](http://ewaldlab.strikingly.com/).**
 
 If you like our podcast, we would love it if you shared it with your friends and colleagues, and gave us feedback in the comments section below. 
 

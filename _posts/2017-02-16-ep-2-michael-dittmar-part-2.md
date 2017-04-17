@@ -9,7 +9,7 @@ comments: true
 
 In episode two we meet Dr. Michael Dittmar who talks to us about things varying from the oil crisis to nuclear fusion and data analysis to sustainable living.
 
-Michael Dittmar is a senior scientist in the department of physics at ETH Zurich and works in particle physics at CERN. He offers a two part elective course at ETH called *Energy and Environment in the 21st Century*. If you are at ETH, we highly recommend this course. You can find the course content along with related news and journal publications on [his course webpage](http://ihp-lx2.ethz.ch/energy21/).
+Michael Dittmar is a senior scientist in the department of physics at ETH Zurich and works in particle physics at CERN. He offers a two part elective course at ETH called *Energy and Environment in the 21st Century*. If you are at ETH, we highly recommend this course. You can find the course content along with related news and journal publications on **[his course webpage](http://ihp-lx2.ethz.ch/energy21/).**
 
 If you like our podcast, we would love it if you shared it with your friends and colleagues, and gave us feedback in the comments section below. 
 

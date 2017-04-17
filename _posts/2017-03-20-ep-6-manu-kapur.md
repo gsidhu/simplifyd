@@ -7,7 +7,7 @@ comments: true
 ---
 Episode 6 brings us Prof. Manu Kapur who is a researcher in the realm of learning sciences. He works on something he calls "productive failure" - a method of pedagogy that truly helps turn failures into stepping stones to success.
 
-Manu Kapur is a professor at ETH Zurich and has recently established the Chair of Learning Sciences and Higher Education in the GESS department. You can find out more about his research on [his personal webpage](http://www.manukapur.com).
+Manu Kapur is a professor at ETH Zurich and has recently established the Chair of Learning Sciences and Higher Education in the GESS department. You can find out more about his research on **[his personal webpage](http://www.manukapur.com).**
 
 If you like our podcast, we would love it if you shared it with your friends and colleagues, and gave us feedback in the comments section below.
 

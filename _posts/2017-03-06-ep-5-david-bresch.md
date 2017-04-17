@@ -8,7 +8,7 @@ comments: true
 
 What measures can we take to minimize the damage caused by natural disasters like tropical cyclones and volcanic eruptions? How do advancements in climate science help make better economic and politicaldecisions? And how does a physicist end up as a policy framework specialist at a re-insurance company?
 
-To answer these questions, we interviewed Prof. David Bresch who is an internationally recognized expert in climate and weather risks. He has been recently-appointed as a full professor in the Department of Environmental Systems Science at ETH Zurich in association with SwissRE. You can find out more about his research on [his ETH webpage](https://www.usys.ethz.ch/en/people/profile.html?persid=49820). He is also on Twitter [@davidbresch](https://twitter.com/davidbresch)
+To answer these questions, we interviewed Prof. David Bresch who is an internationally recognized expert in climate and weather risks. He has been recently-appointed as a full professor in the Department of Environmental Systems Science at ETH Zurich in association with SwissRE. You can find out more about his research on **[his ETH webpage](https://www.usys.ethz.ch/en/people/profile.html?persid=49820).** He is also on Twitter **[@davidbresch](https://twitter.com/davidbresch)**.
 
 Further reading on topics discussed in this episode:  
 1. [Weather Risk Management for Agriculture and Agri-Business in Developing Countries](https://agriskmanagementforum.org/sites/agriskmanagementforum.org/files/Documents/Weather_Risk_Management.pdf): This book chapter is a good introduction to WRM as it argues the need for it; compares traditional and upcoming practices, and provides a case-study.  

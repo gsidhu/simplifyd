@@ -8,7 +8,7 @@ comments: true
 
 Episode 2 in Cool Stuff brings us Heejae Lim, founder and executive director of Talking Points - a startup that enables teachers to communicate with immigrant parents by breaking linguistic barriers with the help of translated text messages. Talking Points has already garnered support from organizations such as Google.org and supports thousands of students. Heejae's inspirational journey also got her featured on the Forbes 30 under 30 list.
 
-Find out more about [Talking Points here](https://talkingpts.org).
+Find out more about **[Talking Points here](https://talkingpts.org).**
 
 If you like our podcast, we would love it if you shared it with your friends and colleagues, and gave us feedback in the comments section below.
 

@@ -6,7 +6,7 @@ categories: episode
 comments: true
 ---
 
-In this episode we are joined by Prof. Karin Würtz who is working on trying to better understand pathologies and find treatment for inflammation-related diseases, most commonly back pain. You can find out about her research [on her webpage.](https://www.karinwuertz.com/)
+In this episode we are joined by Prof. Karin Würtz who is working on trying to better understand pathologies and find treatment for inflammation-related diseases, most commonly back pain. You can find out about her research **[on her webpage.](https://www.karinwuertz.com/)**
 
 She answered a bunch of our näive questions like - How do medicines work? How does a pill know where to go? What are stem cells? How far are we from creating a human in the lab?
 
