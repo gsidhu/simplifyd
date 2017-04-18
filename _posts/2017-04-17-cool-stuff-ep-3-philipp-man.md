@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cool Stuff Ep. 3 - Philipp Man on building a successful start-up
+title:  Cool Stuff Ep. 3 - How Phillip Man built a luxury watch marketplace from his kitchen
 date:   2017-04-17 11:00:00 +0100
 categories: episode
 comments: true
