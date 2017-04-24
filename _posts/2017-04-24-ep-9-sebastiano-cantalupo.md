@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Ep. 9 - Prof. Sebastiano Cantalupo sheds light on dark matter
+title:  Ep. 9 - Prof. Sebastiano Cantalupo on how blackholes illuminate the Universe
 date:   2017-04-24 11:00:00 +0100
 categories: episode
 comments: true
