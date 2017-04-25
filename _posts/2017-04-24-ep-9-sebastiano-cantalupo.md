@@ -4,6 +4,8 @@ title:  Ep. 9 - Prof. Sebastiano Cantalupo on how blackholes illuminate the Univ
 date:   2017-04-24 11:00:00 +0100
 categories: episode
 comments: true
+redirect_from:
+  - /slug
 ---
 
 Prof. Sebastiano Cantalupo says that he has fancied unraveling the mysteries of the Universe for as long as he can remember. A couple of years ago he got a chance of doing exactly that when he was a member of the team at University of California, Santa Cruz, that took *"photographs"* of the cosmic web. He tells us how it was all done explaining the jargon on the fly.

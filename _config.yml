@@ -16,7 +16,8 @@ repo: https://github.com/gsidhu/simplifyd
 comments: true
 permalink: /blog/:title
 future: true
-
+gems:
+  - jekyll-redirect-from
 # Build settings
 markdown: kramdown
 highlighter: rouge
