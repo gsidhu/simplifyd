@@ -8,7 +8,7 @@ layout: default
 <!--    <a class="email" href="mailto:{{site.email}}">{{site.email}}</a> -->
 <!--    <p class="description">{{ site.description }}</p>-->
 <!--    <a href="about" class="btn">About Us</a> -->
-		<p class="description"> <b>News:</b> Episode 10 out now! <br> We are looking for exciting people to talk to on <a style="text-decoration:none" href="/about/#cool-stuff"><b>Cool Stuff</b></a>. Send us an email if you've got something cool to share with us! </p>
+		<p class="description"> <b>News:</b> Cool Stuff Episode 5 out now! <br> We have a very special interview with a mystery guest coming up. Stay tuned! </p>
 		<p id="links">
 		<a href="https://itunes.apple.com/ch/podcast/simplifyd/id1202579757?l=en" title="Subscribe on iTunes"><img src="/assets/icons/appleinc.svg"></a>
 		<a href="http://subscribeonandroid.com/feeds.soundcloud.com/users/soundcloud:users:272955989/sounds.rss" title="Subscribe on Android"><img src="/assets/icons/android.svg"></a>
@@ -23,7 +23,7 @@ layout: default
       <span class="card-title">Posts</span>
 
       <ul class="post-list">
-        {% for post in site.posts limit: 5%}
+        {% for post in site.posts limit: 7%}
           <li id="homelist">
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>            
