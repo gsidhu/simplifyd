@@ -4,6 +4,9 @@ title:  Ep. 12 - Prof. Stefan Hell - Inside the mind of a Nobel laureate
 date:   2017-06-05 14:00:00 +0100
 categories: episode
 comments: true
+redirect_from:
+  - /stefanhell
+
 ---
 In the final episode of Season 1, we met [Prof. Stefan Hell](https://en.wikipedia.org/wiki/Stefan_Hell) - a Nobel prize winning physicist who in his own words was "forced into becoming an applied physicist." (!) He is known for developing a technique of optical microscopy that broke the 125 year reign of Abbe's limit and today allows us to look down at the molecular scale with just a simple microscope. 
 

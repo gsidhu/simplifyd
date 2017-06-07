@@ -15,3 +15,4 @@ This is a list of interviews we have scheduled. We encourage you to use the comm
 
 _Note - If you have general remarks or questions directed at us and not the interviewee, please send us an email or contact us via Facebook or Twitter. [(Links here)](/subscribe)_
 
+* Be patient, young padawan.
