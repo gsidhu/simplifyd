@@ -13,10 +13,18 @@
   <!-- Facebook Sharing Tags -->
   <meta property="fb:admins" content="1127485857369987" />
   <meta property="og:title" content="{{ page.title }} | Simplifyd" />
+  <meta property="og:description" content="{{ description }}">
   <meta property="og:type" content="website" />
-  <meta property="og:image" content="http://simplifyd.xyz/assets/images/logo.png" />
+  <meta property="og:image" content="http://simplifyd.xyz/assets/images/logo.jpg"/>
   <meta property="og:url" content="http://simplifyd.xyz{{ page.url }}" />
   <meta property="og:site_name" content="Simplifyd" />
+
+  <meta name="twitter:card" content="{{ page.twitter_card.type | default: "summary" }}">
+  <meta name="twitter:site" content="@simplifydcast">
+  <meta name="twitter:title" content="{{ page.title }} | simplifyd">
+  <meta name="twitter:description" content="{{ description }}">
+  <meta name="twitter:creator" content="@simplifydcast">
+  <meta name="twitter:image" content="http://simplifyd.xyz/assets/images/logo.jpg">
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
