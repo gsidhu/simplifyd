@@ -5,6 +5,6 @@ sharing: none
 ---
 <div id="archive-list">
 {% for post in site.posts %}
-	<ul class="list-unstyled"> <li>{{ post.date | date_to_string }} &mdash; <a href=/simplifyd/{{ post.url }}> {{ post.title }} </a> </li></ul>
+	<ul class="list-unstyled"> <li>{{ post.date | date_to_string }} &mdash; <a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }} </a> </li></ul>
 {% endfor %}
 </div>
