@@ -30,12 +30,12 @@ Plus all our website's code is freely hosted on Github which allows anyone to ta
 Take a look at our [Privacy Policy](/privacy) for more details.
 
 ##### We want you to get involved.
-You can have a look at our list of [upcoming interviews](/upcoming) and send us your questions. Or if you know someone who you think we should get on our podcast, send us an email and we'll figure it out with you.
+You can have a look at our list of [upcoming interviews](./upcoming) and send us your questions. Or if you know someone who you think we should get on our podcast, send us an email and we'll figure it out with you.
 
 -----------
 
 #### Who are we?
 
-**Gurjot Sidhu** is a masters student in physics with research interests in computational social science and data-driven modeling. He does [stand-up comedy](http://comedynights.ch/) and [theater](https://blueprintmasquerades.com/), and spends most weekends cheering for Liverpool FC. He has quit the social media nonsense and now exists solely [on his website](https://gsidhu.github.io) as a sentient cyberbeing.
+**Gurjot Sidhu** is a masters student in physics with research interests in computational social science and data-driven modeling. He does stand-up comedy and theater, and spends most weekends cheering for Liverpool FC. He has quit the social media nonsense and now exists solely [on his website](https://thatgurjot.com) as a sentient cyberbeing.
 
 **Michael Yared** is a mysterious Space Photon. That's all you need to know about him.
